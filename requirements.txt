@@ -7,3 +7,5 @@ matplotlib
 numpy
 pillow
 requests
+streamlit
+geocoder
